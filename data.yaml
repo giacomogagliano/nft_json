@@ -1,0 +1,23 @@
+- 'creato primo contractto che però non aveva la funzione
+  mint: 0xD67eb135C383BC8e3EB1Ce04145e3A45B652ed9a'
+- creato un ID 0
+- 'creato secondo contratto. Ha funzione mint ma gli manca la
+  funzione send'
+-
+  json:
+    source: ipfs
+  nft:
+    image: 8
+    id: 0
+-
+  json:
+    source: ipfs
+  nft:
+    image: 0
+    id: 1
+-
+  json:
+    source: github
+  nft:
+    image: "https://www.varesenews.it/photogallery_new/images/2021/05/generica-2020-1221336.610x431.jpg"
+    id: 2
