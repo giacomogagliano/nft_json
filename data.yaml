@@ -5,13 +5,13 @@
   funzione send'
 -
   json:
-    source: ipfs
+    source: https://ipfs.io/ipfs/QmdfoEEMN88pnqAM8nz4JFkVKATJPHMei46KU3fdsatroZ?filename=0.json
   nft:
     image: 8
     id: 0
 -
   json:
-    source: ipfs
+    source: https://ipfs.io/ipfs/QmTsvh5ukDcy9wT5xRHDuPdFpuw757ZerJ7gSNwNeCX5Xo?filename=1.json
   nft:
     image: 0
     id: 1

@@ -5,52 +5,48 @@
   "name": "Trial with a Bob Marley pic from the net.",
   "attributes": [
     {
-      "attributes": [
-        {
-          "trait_type": "clothing",
-          "value": "neopunk"
-        },
-        {
-          "trait_type": "accessories",
-          "value": "futuristic head gear"
-        },
-        {
-          "trait_type": "sex",
-          "value": "!!anthropomorphous bear man!!"
-        },
-        {
-          "trait_type": "timeofday",
-          "value": "during a sunny day"
-        },
-        {
-          "trait_type": "place",
-          "value": "holodeck"
-        },
-        {
-          "trait_type": "placestyle",
-          "value": "!!neon-lit!!"
-        },
-        {
-          "trait_type": "background",
-          "value": "gigantic mechs"
-        },
-        {
-          "trait_type": "realism",
-          "value": "realistic"
-        },
-        {
-          "trait_type": "media",
-          "value": "art. trending on artstation."
-        },
-        {
-          "trait_type": "photography",
-          "value": "rule of thirds"
-        },
-        {
-          "trait_type": "action",
-          "value": "80s synthwave"
-        }
-      ]
+      "trait_type": "clothing",
+      "value": "neopunk"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "futuristic head gear"
+    },
+    {
+      "trait_type": "sex",
+      "value": "!!anthropomorphous bear man!!"
+    },
+    {
+      "trait_type": "timeofday",
+      "value": "during a sunny day"
+    },
+    {
+      "trait_type": "place",
+      "value": "holodeck"
+    },
+    {
+      "trait_type": "placestyle",
+      "value": "!!neon-lit!!"
+    },
+    {
+      "trait_type": "background",
+      "value": "gigantic mechs"
+    },
+    {
+      "trait_type": "realism",
+      "value": "realistic"
+    },
+    {
+      "trait_type": "media",
+      "value": "art. trending on artstation."
+    },
+    {
+      "trait_type": "photography",
+      "value": "rule of thirds"
+    },
+    {
+      "trait_type": "action",
+      "value": "80s synthwave"
     }
   ]
 }
